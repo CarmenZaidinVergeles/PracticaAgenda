@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_Nombre">Nombre</string>
+    <string name="str_Telefono">Telefono</string>
+
+    <string name="str_menu_borrar">Borrar</string>
+    <string name="str_menu_editar">Editar</string>
+    <string name="str_menu_insertar">Insertar</string>
+    <string name="str_menu_detalles">Detalles</string>
+
+
+    <string name="str_bt_añadir">Añadir</string>
+    <string name="str_titulo_dialogo_editar">Editar</string>
+    <string name="str_titulo_dialogo_insertar">Insertar</string>
+    <string name="str_titulo_dialogo_detalles">Detalles</string>
+    <string name="str_positiveButton_insertar">Insertar</string>
+    <string name="str_negativeButton_cancelar">Cancelar</string>
+    <string name="str_positiveButton_aceptarDetalle">Aceptar</string>
+    <string name="str_positiveButton_Salir">Salir</string>
+    <string name="str_Numeros_De">Numeros de</string>
+
+    <string name="str_btAceptar">Aceptar</string>
+    <string name="str_btCancelar">Cancelar</string>
+    <string name="str_campo_vacio">Campo vacio</string>
+
+
+
+
+
+</resources>
